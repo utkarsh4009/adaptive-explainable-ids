@@ -544,11 +544,11 @@ These are potential enhancements and should not be interpreted as features alrea
 
 ## 👨‍💻 Author
 
-**Akash Kumar Senani**  
+**Utkarsh Jaiswal**  
 B.Tech — Electronics and Computer Engineering  
 VIT Chennai
 
-GitHub: [@akashsenani](https://github.com/akashsenani)
+GitHub: [@akashsenani](https://github.com/utk4009)
 
 ## 📄 License
 
